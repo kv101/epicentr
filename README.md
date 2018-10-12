@@ -10,7 +10,7 @@ Also as an add on, we would also like to add a remedial functionality that would
 
 **Earthquake Forecast Feature**: We are trying to deploy diverse input features to model the probability of an earthquake at a given location. Some of these features include: <br/>
 1) Satellite Images and Remote Sensing : Modelled from real time data
-2) Chemical, Geological and Biological precursors: Certain temporal changes in the place that can be linked to an approcahing disaster
+2) Chemical, Geological and Biological precursors: Certain temporal changes in the place that can be linked to an approaching disaster
 3) Disaster history of calamity prone zones
 <br/><br/>
 
