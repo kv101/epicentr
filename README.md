@@ -5,6 +5,6 @@ Earthquakes are known to be very difficult to predict in advance especially beca
 <br/>
 <br/>
 In this project, we are trying to create an all information application that could accurately forecast earthquakes based on various parameters, that can alert the citizens and authorities alike who could be better prepared to cope with the after effects of the calamity.
-Also as an add on, we would also like to add the remedy functionality that would let the authorities and the affected people to better coordinate to overcome the potential destruction and engage in efficient relief efforts.
+Also as an add on, we would also like to add the remedy functionality that would let the authorities and the affected people to better coordinate to overcome the potential destruction and engage in efficient relief efforts. 
 
 
