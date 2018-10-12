@@ -19,6 +19,7 @@ Also as an add on, we would also like to add a remedial functionality that would
 1) Integrated Public Alert System : Can be linked to social media for wider outreach
 2) Evacuation
 <br/><br/>
+
 **Disaster Remedy Feature** : After the advent of the disaster, remedial measures can be greatly helped with this feature. Some of its characteristics are: <bf/>
 1) Rescue operations : Worstly hit areas can be recognized via social media data mining and equitable distribution of resources for rescue operations can be undertaken
 2) Disruption in Transport Infrastructure : The authorities would be better equipped with diverting traffic and rescheduling public transportation. Live transport data can directly be taken from Live Maps and integrated into our product.
