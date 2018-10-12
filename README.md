@@ -23,6 +23,10 @@ Also as an add on, we would also like to add a remedial functionality that would
 **Disaster Remedy Feature** : After the advent of the disaster, remedial measures can be greatly helped with this feature. Some of its characteristics are: <bf/>
 1) Rescue operations : Worstly hit areas can be recognized via social media data mining and equitable distribution of resources for rescue operations can be undertaken
 2) Disruption in Transport Infrastructure : The authorities would be better equipped with diverting traffic and rescheduling public transportation. Live transport data can directly be taken from Live Maps and integrated into our product.
-3) Current State: Akin to the 'marking as safe' feature in Facebook, this app would have a feature which lets you feed in your current level of safety after the disaster struck and would let your well-wishers and rescue missions know your condition and location for swift action
+3) Current State : Akin to the 'marking as safe' feature in Facebook, this app would have a feature which lets you feed in your current level of safety after the disaster struck and would let your well-wishers and rescue missions know your condition and location for swift action
+<br/><br/>
+**Conclusion** : Above was a brief overview of the project for code.fun.do ++ 2018. The app is currently being built to predict onset of earthquakes. The preparedness and remedy feature are useful for all general natural calamities. The app is being made to be all inclusive, so that in the untoward case of a natural disaster, right steps can be taken to minimize the loss of life.
+
+
 
 
