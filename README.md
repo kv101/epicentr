@@ -26,7 +26,7 @@ Also as an add on, we would also like to add a remedial functionality that would
 3) Current State : Akin to the 'marking as safe' feature in Facebook, this app would have a feature which lets you feed in your current level of safety after the disaster struck and would let your well-wishers and rescue missions know your condition and location for swift action.
 <br/><br/>
 
-**Conclusion** : Above was a brief overview of the project for code.fun.do ++ 2018. The app is currently being built to predict onset of earthquakes. The preparedness and remedy feature are useful for all general natural calamities. The app is being made to be all inclusive, so that in the untoward case of a natural disaster, right steps can be taken to minimize the loss of life.
+**Conclusion** : Above was a brief overview of the project for code.fun.do ++ 2018. The app is currently being built to predict onset of earthquakes. The preparedness and remedy features are useful for all general natural calamities. The app is being made to be all inclusive, so that in the untoward case of a natural disaster, right steps can be taken to minimize the loss of life.
 
 
 
